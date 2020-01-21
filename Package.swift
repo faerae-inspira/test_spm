@@ -24,7 +24,8 @@ let package = Package(
             path: "Sources"
         ),
         .testTarget(
-            name: "test_spmTests",
-            dependencies: ["test_spm"]),
+            name: "NavKitTests",
+            dependencies: ["NavKit"]
+        )
     ]
 )

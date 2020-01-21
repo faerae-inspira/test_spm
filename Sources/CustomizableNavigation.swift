@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 /// It holds all required things for a type to specify the requirement of
 /// how the navigation bar with all of it's items look like and behave.
